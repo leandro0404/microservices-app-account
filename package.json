@@ -1,5 +1,4 @@
 {
-  "homepage": "https://leandro0404.github.io/microservices-app-account",
   "name": "app-consumer",
   "version": "0.1.0",
   "private": true,
