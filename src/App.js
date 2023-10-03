@@ -270,12 +270,12 @@ export default function PrimarySearchAppBar() {
         </Grid>
         <Grid item xs={4} xl={4} key={4}>
           <AppMenuItem onClick={handleAppMenuClose}>
-            Click Pages
+            Criador de páginas
           </AppMenuItem>
         </Grid>
         <Grid item xs={4} xl={4} key={5}>
           <AppMenuItem onClick={handleAppMenuClose}>
-            E-Notas
+            Nota Fiscal
           </AppMenuItem>
         </Grid>
       </Grid>
